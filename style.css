@@ -1,4 +1,8 @@
 
+.title {
+    padding-top: 30px;
+}
+
 body {
     background-color: rgb(225, 216, 233);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -8,6 +12,3 @@ body {
 
 
 
-.title {
-    padding-top: 30px;
-}
