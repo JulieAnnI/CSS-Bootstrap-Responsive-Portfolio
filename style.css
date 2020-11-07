@@ -1,4 +1,13 @@
+
+body {
+    background-color: rgb(225, 216, 233);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(15, 3, 22);
+}
+
+
+
+
 .title {
     padding-top: 30px;
-
 }
