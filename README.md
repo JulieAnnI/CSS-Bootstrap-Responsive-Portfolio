@@ -3,26 +3,27 @@
 CSS Bootstrap Responsive Portfolio
 
 Description
-Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
-The quality of a README often differentiates a good project from a bad project. A good one takes advantage of the opportunity to explain and showcase what your application does, justify the technologies used, and even talk about some of the challenges you faced and features you hope to implement in the future. A good README helps you stand out among the large crowd of developers putting their work on GitHub.
-There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
-At a minimum, your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out? If your project has a lot of features, consider adding a heading called "Features" and listing them here.
-If you're new to Markdown, read the GitHub guide on Mastering Markdown.
-If you need an example of a good README, check out the VSCode repository.
+
+My motivation in creating this project was to showcase my ability to create a responsive layout using Bootstrap and their grid system. I also wanted show I could display responsive images and modify Bootstrap elements to personalize them to my own style. This was first time writing code completely from scratch without the supervision of my instructor. It was a difficult challenge, but extremely rewarding. Not only did I accoomplish my goals to create a responsive layout and images using Bootstrap, but now I have the basis of a portfolio to showcase my work! 
+To create this Responsive Portfolio, I created HTML files for every page that would be included (Bio, Contact, Portfolio) as well as three CSS files: the reset.css file to "reset" all browser inconsistancies to a consistent baseline, the second css file is to create compatiabilty between my HTML file and Bootstrap, and the style.css file is to add my own personal flair to my webpage. 
+I used many components from Bootstrap such as my Navigation bar and the form on my contact page, but these were edited to suit my specific needs. I used Bootstrap's grid system to layout my pages and also to create the responsive layout, so my site will look good on any size screen. I also made the images responsive as well, but they will not appear bigger than the size of the original file. 
+One of the challenges I faced was trying to get the dropdown menu to function on the Navigation Bar. I could not figure out why this function would not work. Luckily my classmates showed me how to import the proper Javascript code from the Bootstrap website so it could function properly. I was able to learn more about Bootstrap and the way it functions by making this small mistake!
 
 Installation
 None required, just follow link 
 
 Usage
 The purpose of this project is to host portfolio work to share with my peers, instructors, and future employeers. 
-This work also showcases my ability to create a responsive layout and images utilizing Bootstrap elements as shown in screenshots below:
+This work also showcases my ability to create a responsive layout and images while also utilizing Bootstrap's grid system and components as shown in screenshots below:
 
-Screenshot of Desktop view:
-![Bio1](Images\Bio1.png)
-
-
-
-
+![Bio at 992px](Images\bio-992.png)
+![Bio at 768px](Images\bio-768.png)
+![Bio at 400px](Images\bio-400.png)
+![Portfolio at 992px](Images\portfolio-992.png)
+![Portfolio at 768px](Images\portfolio-768.png)
+![Portfolio at 400px](Images\portfolio-400.png)
+![Contact at 992px](Images\contact-992.png)
+![Contact at 768px](Images\contact768.png)
 
 Credits
 Thank you to my instructor and TA's who helped answer questions and taught me how to make this project possible. 
