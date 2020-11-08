@@ -8,7 +8,12 @@ body {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(15, 3, 22);
 }
-
-
-
-
+    
+.a {
+    margin-top: 64px;
+    background-color: whitesmoke;
+    padding-top: 16px;
+    padding-right: 27px;
+    padding-left: 27px;
+    padding-bottom: 16px;
+}
