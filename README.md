@@ -1,6 +1,5 @@
-# CSS-Bootstrap-Responsive-Portfolio
 
-CSS Bootstrap Responsive Portfolio
+# CSS Bootstrap Responsive Portfolio
 
 Description
 
@@ -10,20 +9,21 @@ I used many components from Bootstrap such as my Navigation bar and the form on 
 One of the challenges I faced was trying to get the dropdown menu to function on the Navigation Bar. I could not figure out why this function would not work. Luckily my classmates showed me how to import the proper Javascript code from the Bootstrap website so it could function properly. I was able to learn more about Bootstrap and the way it functions by making this small mistake!
 
 Installation
-None required, just follow link 
+None required, just follow link https://julieanni.github.io/CSS-Bootstrap-Responsive-Portfolio/.
+
 
 Usage
 The purpose of this project is to host portfolio work to share with my peers, instructors, and future employeers. 
 This work also showcases my ability to create a responsive layout and images while also utilizing Bootstrap's grid system and components as shown in screenshots below:
 
-![Bio at 992px](Images\bio-992.png)
-![Bio at 768px](Images\bio-768.png)
-![Bio at 400px](Images\bio-400.png)
-![Portfolio at 992px](Images\portfolio-992.png)
-![Portfolio at 768px](Images\portfolio-768.png)
-![Portfolio at 400px](Images\portfolio-400.png)
-![Contact at 992px](Images\contact-992.png)
-![Contact at 768px](Images\contact768.png)
+![Bio-992px](Images\bio-992.png)
+![Bio-768px](Images\bio-768.png)
+![Bio-400px](Images\bio-400.png)
+![Portfolio-992px](Images\portfolio-992.png)
+![Portfolio-768px](Images\portfolio-768.png)
+![Portfolio-400px](Images\portfolio-400.png)
+![Contact-992px](Images\contact-992.png)
+![Contact-768px](Images\contact768.png)
 
 Credits
 Thank you to my instructor and TA's who helped answer questions and taught me how to make this project possible. 
