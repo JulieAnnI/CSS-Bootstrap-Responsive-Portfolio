@@ -16,7 +16,7 @@ Usage
 The purpose of this project is to host portfolio work to share with my peers, instructors, and future employeers. 
 This work also showcases my ability to create a responsive layout and images while also utilizing Bootstrap's grid system and components as shown in screenshots below:
 
-![Bio-992px](Images\bio-992.png)
+![Bio-992px](/Images/bio-992.png)
 ![Bio-768px](Images\bio-768.png)
 ![Bio-400px](Images\bio-400.png)
 ![Portfolio-992px](Images\portfolio-992.png)
