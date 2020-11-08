@@ -23,7 +23,7 @@ This work also showcases my ability to create a responsive layout and images whi
 ![Portfolio-768px](/Images/portfolio-768.png)
 ![Portfolio-400px](/Images/portfolio-400.png)
 ![Contact-992px](/Images/contact-992.png)
-![Contact-768px](/Images/contact768.png)
+![Contact-768px](/Images/contact-768.png)
 
 Credits
 Thank you to my instructor and TA's who helped answer questions and taught me how to make this project possible. 
