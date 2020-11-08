@@ -17,13 +17,13 @@ The purpose of this project is to host portfolio work to share with my peers, in
 This work also showcases my ability to create a responsive layout and images while also utilizing Bootstrap's grid system and components as shown in screenshots below:
 
 ![Bio-992px](/Images/bio-992.png)
-![Bio-768px](Images\bio-768.png)
-![Bio-400px](Images\bio-400.png)
-![Portfolio-992px](Images\portfolio-992.png)
-![Portfolio-768px](Images\portfolio-768.png)
-![Portfolio-400px](Images\portfolio-400.png)
-![Contact-992px](Images\contact-992.png)
-![Contact-768px](Images\contact768.png)
+![Bio-768px](/Images/bio-768.png)
+![Bio-400px](/Images/bio-400.png)
+![Portfolio-992px](/Images/portfolio-992.png)
+![Portfolio-768px](/Images/portfolio-768.png)
+![Portfolio-400px](/Images/portfolio-400.png)
+![Contact-992px](/Images/contact-992.png)
+![Contact-768px](/Images/contact768.png)
 
 Credits
 Thank you to my instructor and TA's who helped answer questions and taught me how to make this project possible. 
