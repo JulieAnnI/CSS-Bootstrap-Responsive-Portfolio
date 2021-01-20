@@ -19,3 +19,9 @@ body {
     padding-left: 27px;
     padding-bottom: 16px;
 }
+
+.crop {
+    max-height: 200px;
+    max-width: 500px;
+    overflow: hidden;
+}
